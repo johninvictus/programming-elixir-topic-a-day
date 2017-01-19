@@ -10,26 +10,28 @@ Topics expecting to have acquired at the end are:
   - Elixir Basics
   - Anonymous Functions
   - Modules and Named Functions
-  - Lists and Recursion 
+  - Lists and Recursion
   - Maps, Keyword Lists, Sets, and Structs
   - An Aside—What Are Types?
   - Processing Collections—Enum and Stream
   - Strings and Binaries
   - Control Flow
   - Organizing a Project
-  - ###### Concurrent Programming
+  ___
+  - Concurrent Programming
     - Working with Multiple Processes
-    - Nodes—The Key to Distributing Services 
+    - Nodes—The Key to Distributing Services
     - OTP: Servers
     - OTP: Supervisors
     - OTP: Applications
     - Tasks and Agents
-  - ###### More-Advanced Elixir
+  -  More-Advanced Elixir
     - Macros and Code Evaluation
     - Linking Modules: Behavio(u)rs and Use
     - Protocols—Polymorphic Functions
     - More Cool Stuff
-  
+
 #### Why Elixir
+
 >Elixir is a dynamic, functional language designed for building scalable and maintainable applications.
 Elixir leverages the Erlang VM, known for running low-latency, distributed and fault-tolerant systems, while also being successfully used in web development and the embedded software domain.

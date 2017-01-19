@@ -180,3 +180,7 @@ iex(5)> %{"L" => "lake",:KE => "kenya", :US => "united states"}
 %{:KE => "kenya", :US => "united states", "L" => "lake"}
 iex(6)> 
 ```
+
+##### THE WITH EXPRESSION
+
+read this
